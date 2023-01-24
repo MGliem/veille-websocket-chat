@@ -1,6 +1,7 @@
 # Welcome
 
-I made this for my school-mates (technology watch)
+I made this for my school-mates (technology watch).
+
 The purpose is to present a simple application that use websockets for a chat application.
 
 ## Here's how to get started:
