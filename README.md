@@ -12,6 +12,6 @@ The purpose is to present a simple application that use websockets for a chat ap
 
 ## Run the application localy:
 
-1. Make sure the docker container is up and running.
+1. Make sure the docker container is up and running. ("docker ps" in a terminal)
 2. "npm run d" in a terminal at the root of the project
 3. In your web-browser go to localhost:8080 (port can be changed in the docker-compose file)
