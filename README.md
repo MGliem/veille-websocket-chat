@@ -8,7 +8,7 @@ The purpose is to present a simple application that use websockets for a chat ap
 
 1. Clone this repo
 2. "npm i" in a terminal at the root of the project
-3. In the deployment folder, there is a docker-compose for setting up a webserver (nginx) with apropriate configuration for a reverse proxy. Type "docker compose -f ./docker-compose.dev.yml up -d" in a terminal
+3. In the deployment folder, there is a docker-compose for setting up a webserver (nginx) with apropriate configuration for a reverse proxy. Type "docker compose -f ./deployment/docker-compose.dev.yml up -d" in a terminal at the root of the project
 
 ## Run the application localy:
 
